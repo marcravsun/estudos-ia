@@ -1,4 +1,5 @@
 # O trabalho humano invisível que alimenta a revolução da IA
+![Trabalho braçal](https://github.com/user-attachments/assets/1ba62ee0-e033-43dc-9c4e-8353782288eb)
 
 A inteligência artificial moderna depende fundamentalmente de milhões de trabalhadores humanos que rotulam, classificam e validam dados em uma escala sem precedentes. Apesar dos avanços tecnológicos impressionantes, a catalogação manual de dados permanece essencial para o desenvolvimento de IA de alta qualidade, com o mercado global projetado para crescer de **$2,2 bilhões em 2024 para $8,22 bilhões até 2028**[¹](#ref1). A Scale AI, empresa líder no setor recentemente avaliada em **$29 bilhões após investimento da Meta**[²](#ref2), continua tendo a rotulagem manual como seu core business, empregando especialistas com PhD que chegam a receber $100 por anotação de alta complexidade. Esta realidade contrasta fortemente com a narrativa popular de automação total, revelando uma infraestrutura global de trabalho humano que sustenta a aparente "magia" da inteligência artificial.
 
